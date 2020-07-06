@@ -16,3 +16,5 @@ plugin for Android devices.
 <p align="center">
 <img width="1000" src="img/architecture.png">
 </p>
+
+small edit 
